@@ -3,6 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      {/* Delete <header>...</header> and add your code below */}
       <header className="App-header">
         <img src="tomocard.png" className="App-logo" alt="logo" />
         <br/>
